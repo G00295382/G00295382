@@ -8,6 +8,13 @@ Markdown is essentially used to convert plain text into HTML. It’s a great too
 
 🚀 🚀 🚀
 
+## **Info about me**
+This is my second year, I'm a computer science major, I have an interest in making websites, I love photography, and I also happen to be completely noseblind
+
+### Some photos I've taken
+
+#(examples)
+
 ## **A cat image**
 
 <img src="https://cdn.discordapp.com/attachments/801502452447838238/1148779713184141402/20230905_165612.jpg" width="400" height="500" />
